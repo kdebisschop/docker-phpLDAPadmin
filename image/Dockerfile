@@ -1,5 +1,5 @@
-FROM osixia/web-baseimage:1.1.1
-MAINTAINER Bertrand Gouny <bertrand.gouny@osixia.net>
+FROM bioraft/web-baseimage:1.1.1
+MAINTAINER Karl DeBisschop <karl.debisschop@bioraft.com>
 
 # phpLDAPadmin version
 ARG PHPLDAPADMIN_VERSION=1.2.3
